@@ -4,35 +4,36 @@
 欢迎来到英雄大陆！这是一个贯穿整个学期的 RPG 游戏开发项目，你将通过完成一系列循序渐进的里程碑任务，掌握 Java 面向对象编程的核心思想，并最终构建出一个完整的角色扮演游戏系统。
 
 # 📁 仓库结构
-本模板仓库按周次（里程碑）组织，每个文件夹对应一个独立的任务，内含该任务所需的脚手架代码（如类框架、方法签名等）。你需要在**自己的作业仓库**中依次完成这些任务。
-rpg-project-starter/
-├── milestone01-HelloHero/          # 第1周：第一个程序
-│   └── HelloHero.java               # 输出英雄诞生
-├── milestone02-RoleAttributes/      # 第2周：角色属性面板
-│   └── RoleAttributes.java          # 变量、数据类型练习
-├── milestone03-BattleFlow/          # 第3周：战斗分支与循环
-│   └── Battle.java                  # if-else、for 循环
-├── milestone04-Inventory/           # 第4周：背包系统（数组）
-│   └── Inventory.java               # 数组管理物品
-├── milestone05-RoleClass/           # 第5周：类与对象
-│   └── Role.java                    # 封装角色属性与方法
-├── milestone06-Inheritance/         # 第6周：继承与多态
-│   └── Warrior, Mage                 # 职业继承体系
-├── milestone07-AbstractInterface/   # 第7周：抽象类与接口
-│   └── QuestSystem                   # 任务系统设计
-├── milestone08-Composition/         # 第8周：组合与装备
-│   └── Weapon, Equipment             # 装备系统
-├── milestone09-Exception/           # 第9周：异常处理
-│   └── ExceptionDemo                 # 自定义异常
-├── milestone10-JavaLib/             # 第10周：基础类库
-│   └── StringMath                    # 字符串、数学工具
-├── milestone11-GUI/                 # 第11周：图形界面
-│   └── GameWindow                    # Swing 基础
-├── milestone12-FileIO/              # 第12周：文件输入输出
-│   └── SaveLoad                      # 存档功能
-├── milestone13-Integration/         # 第13周：项目整合
-│   └── MainGame                      # 整合所有模块
-└── README.md                         # 本文件
+本模板仓库按周次（里程碑）组织，每个文件夹对应一个独立的任务，内含该任务所需的脚手架代码（如类框架、方法签名等）。你需要在**自己的作业仓库**中依次完成这些任务。  
+
+rpg-project-starter/  
+├── milestone01-HelloHero/          # 第1周：第一个程序  
+│   └── HelloHero.java               # 输出英雄诞生  
+├── milestone02-RoleAttributes/      # 第2周：角色属性面板  
+│   └── RoleAttributes.java          # 变量、数据类型练习  
+├── milestone03-BattleFlow/          # 第3周：战斗分支与循环  
+│   └── Battle.java                  # if-else、for 循环  
+├── milestone04-Inventory/           # 第4周：背包系统（数组）  
+│   └── Inventory.java               # 数组管理物品  
+├── milestone05-RoleClass/           # 第5周：类与对象  
+│   └── Role.java                    # 封装角色属性与方法  
+├── milestone06-Inheritance/         # 第6周：继承与多态  
+│   └── Warrior, Mage                 # 职业继承体系  
+├── milestone07-AbstractInterface/   # 第7周：抽象类与接口  
+│   └── QuestSystem                   # 任务系统设计  
+├── milestone08-Composition/         # 第8周：组合与装备  
+│   └── Weapon, Equipment             # 装备系统  
+├── milestone09-Exception/           # 第9周：异常处理  
+│   └── ExceptionDemo                 # 自定义异常  
+├── milestone10-JavaLib/             # 第10周：基础类库  
+│   └── StringMath                    # 字符串、数学工具  
+├── milestone11-GUI/                 # 第11周：图形界面  
+│   └── GameWindow                    # Swing 基础  
+├── milestone12-FileIO/              # 第12周：文件输入输出  
+│   └── SaveLoad                      # 存档功能  
+├── milestone13-Integration/         # 第13周：项目整合  
+│   └── MainGame                      # 整合所有模块  
+└── README.md                         # 本文件  
 
 # 🚀 如何使用
 ## 1. 接受作业
